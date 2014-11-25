@@ -70,7 +70,7 @@ $current_page = "CV-Juris";
           Using UX strategies and tactics such as copy decks, user flow, competitor research, stakeholder interviews, I planned and redesigned the interface of arbitrationlaw.com and jurisconferences.com
       </p>
       <p>
-          Arbitrationlaw is a multifaceted web site and I worked to bring that out in the redesign of the homepage, several internal pages and creation of new landing pages and user flow pages.  Jurisconferences is an event site and I set up a slider to highight new events and added new sidebars and highlight sections to bring in related materials and social media connections.
+          <a href="http://arbitrationlaw.com" target="_blank">Arbitrationlaw</a> is a multifaceted web site and I worked to bring that out in the redesign of the homepage, several internal pages and creation of new landing pages and user flow pages.  <a href="http://jurisconferences.com" target="_blank">Jurisconferences</a> is an event site and I set up a slider to highight new events and added new sidebars and highlight sections to bring in related materials and social media connections.
       </p>
   </blockquote>
   </div>

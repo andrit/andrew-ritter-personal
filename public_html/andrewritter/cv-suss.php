@@ -26,8 +26,8 @@ $current_page = "CV-Juris";
        Helping a non-profit to increase their visibility is rewarding indeed. 
       </p>
       <p>
-        <strong>As a Web Designer</strong> I installed WordPress and configured it via plugins and theme customization.  I built out the pages of the site, adding a jumbo slider on the front page with CSS animations.<br />
-        <strong>As a Documentarian</strong> I set up the lighting, sound and video for a short interview with the director of the program and edited it using Premeire Pro and After Effects for lower thirds and the motion graphics title screen.  I then uploaded it to the <a href="http://suss.capsli.org/about-us" target="_blank">About Us page.</a>
+        <strong>As a Web Designer</strong> I installed WordPress and configured it via plugins and theme customization for <a href="http://suss.capsli.org" target="_blank">SUSS</a>.  I built out the pages of the site, adding a jumbo slider on the front page with CSS animations.<br />
+        <strong>As a Documentarian</strong> I set up the lighting, sound and video for a short interview with the director of the SUSS program and edited it using Premeire Pro and After Effects for lower thirds and the motion graphics title screen.  I then uploaded it to the <a href="http://suss.capsli.org/about-us" target="_blank">About Us page.</a>
       </p>
       
     

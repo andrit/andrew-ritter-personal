@@ -26,7 +26,7 @@ $current_page = "CV-OperationSplash";
         Protecting the Bays of Long Island is what Operation Splash is all about.  I helped them to get the word out!
       </p>
       <p>
-        <strong>As a Web Designer</strong>  I crafted the website to show their wealth of content and informational pieces in a uniform and well-designed way using the WordPress CMS, HTML, and CSS.<br />
+        <strong>As a Web Designer</strong>  I crafted the website, <a href="http://operationsplash.com" target="_blank">OperationSplash.com</a> to show their wealth of content and informational pieces in a uniform and well-designed way using the WordPress CMS, HTML, and CSS.<br />
         <strong>As a Digital Consultant</strong> I directed graphics creation workflows and instructed other team members on best practices for development and upkeep of the digital property that is the website.
       </p>
     
